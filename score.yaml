@@ -19,3 +19,5 @@ resources:
     type: dns
   files:
     type: s3
+  assets:
+    type: s3
