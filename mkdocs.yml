@@ -1,0 +1,7 @@
+site_name: 'wills-podinfo-app-2324 Docs'
+
+nav:
+  - Home: index.md
+
+plugins:
+  - techdocs-core
